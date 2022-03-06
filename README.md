@@ -1,2 +1,2 @@
-# big_data_2022
- Big Data Course (2022)
+# B9334 Big Data in Finance - Part III
+Spring 2022 by Prof. Ritt Keerati
